@@ -30,15 +30,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarswatPreeti&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarswatPreeti&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarswatPreeti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarswatPreeti&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 💡 LeetCode Progress
 
-<p align="center">
+<p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://leetcard.jacoblin.cool/sarswatPreeti?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
