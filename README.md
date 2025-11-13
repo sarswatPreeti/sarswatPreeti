@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sarswatPreeti">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Turning+ideas+into+reality+💡;Building+secure+and+scalable+apps+🌐;Exploring+Web3+%26+Cybersecurity+🔐" alt="Typing SVG" />
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=Turning+ideas+into+reality+💡;Building+secure+and+scalable+apps+🌐;Exploring+Web3+%26+Cybersecurity+🔐" alt="Typing SVG" /> -->
   </a>
 </p>
 
