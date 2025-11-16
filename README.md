@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preeti Saraswat</h1>
-<h3 align="center">🚀 Full Stack Developer | Web3 & Cybersecurity Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | Web3 Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/sarswatPreeti">
@@ -11,7 +11,7 @@
 
 ### 🧠 About Me
 
-- 🎯 **Goal:** To craft impactful digital solutions and grow as a full-stack developer with a focus on Web3 and cybersecurity.
+- 🎯 **Goal:** To craft impactful digital solutions and grow as a full-stack developer with a focus on Web3.
 - 💻 Passionate about **Blockchain, Web Development, and Open Source**.
 - 🌱 Currently diving deeper into **Solidity, Docker, and Stellar Blockchain**.
 - 💬 Ask me about **JavaScript, React, Node.js, or anything Web3-related!**
